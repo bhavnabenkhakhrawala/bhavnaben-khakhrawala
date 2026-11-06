@@ -1,0 +1,17 @@
+/images/*
+  Cache-Control: public, max-age=86400
+/favicon.ico
+  Cache-Control: public, max-age=86400
+/admin/*
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: no-store
+/bill
+  X-Robots-Tag: noindex, nofollow
+  Referrer-Policy: no-referrer
+/bill.html
+  X-Robots-Tag: noindex, nofollow
+  Referrer-Policy: no-referrer
+/app-shell
+  X-Robots-Tag: noindex
+/app-shell.html
+  X-Robots-Tag: noindex

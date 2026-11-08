@@ -20,4 +20,4 @@ Every page carries its own title, description, canonical link, social tags and s
    - `SESSION_SECRET`  – use the **same value** as on Netlify (keeps old bill links and logins valid)
    - `ADMIN_EMAIL`, `ADMIN_PASSWORD` – same as on Netlify
    - `SITE_URL` – your real address, e.g. `https://yourdomain.com` (no slash at the end). Used for canonical links, sitemap and the www → main redirect
-   (You do NOT need `CF_ACCOUNT_ID`, `CF_DATABASE_ID`, `CF_API_TOKEN` any more. If D1
+   (You do NOT need `CF_ACCOUNT_ID`, `CF_DATABASE_ID`, `CF_API_TOKEN` any more. If no D1

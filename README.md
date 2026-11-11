@@ -1,6 +1,6 @@
 # Bhavnaben Khakhrawala – website + admin (Cloudflare Pages)
-
-Website pages now have real addresses (good for Google):
+  
+Website pages now have real addresses (good for Google): 
 `/` · `/products` · `/products/<product-name>` · `/about` · `/wholesale` · `/reviews` · `/privacy` · `/checkout` · admin: `/admin/`
 Every page carries its own title, description, canonical link, social tags and structured data, and also lists its real content
 (product, flavours, prices) in the HTML. `/sitemap.xml` and `/robots.txt` are created automatically (new products appear by themselves).
